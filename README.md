@@ -1,4 +1,4 @@
-<img src="assets/.png" alt="Description" width="400">
+<img src="assets/559db607-cac7-48a4-b12b-b4ab904dbd11.png" alt="Description" width="400">
 
 # JD PRD Tool
 
