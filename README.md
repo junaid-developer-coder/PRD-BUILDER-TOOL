@@ -191,6 +191,10 @@ This is an example layout, not a claim that every listed file already
 exists. Keep the repository structure aligned with the actual
 implementation.
 
+## check Ui UX Design for This Website 
+
+<img src="assets/d415a283-68c1-4611-a4ce-27eb3d4d2e93.png" alt="Description" width="400">
+
 ## Getting Started
 
 ### Prerequisites
