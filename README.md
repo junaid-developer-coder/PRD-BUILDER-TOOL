@@ -1,3 +1,5 @@
+<img src="assets/.png" alt="Description" width="400">
+
 # JD PRD Tool
 
 **Build-Ready Product Specifications**
